@@ -28,10 +28,9 @@ h2{
 
 .special {
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
-    font-weight: bold;
-    font-size: 40px;
-    text-align:left
-
+    font-weight: bold
+    font-size: 40px
+    text-align: left
 }
 
 ul{
@@ -40,7 +39,6 @@ ul{
 
 ol{
     list-style-type:upper-roman;
-
 }
 li{
     color:white;
@@ -73,8 +71,21 @@ a{
 .caption{
     font-size:15px;
     font-style:italic;
+    text-align:center;
 }
 .container {
-    display:flex;
+    display:flex;  
+    justify-content:space-evenly;
+    flex-wrap:wrap;
+}
+.cake-item {
+    border: 1px dashed yellow;
+    width:275px;
+    height: 275px;
+    padding: 4px;
+}
+.cake-group {
+    border: 2px solid green;
+    width: 275px;
     
 }
