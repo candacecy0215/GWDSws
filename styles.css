@@ -64,5 +64,17 @@ a{
     color:white;
     font-size: 25px;
     font-weight: bold;
+
+}
+.section-one{
+    border:1px soild white;
+    background-color:darkslateblue; 
+}
+.caption{
+    font-size:15px;
+    font-style:italic;
+}
+.container {
+    display:flex;
     
 }
