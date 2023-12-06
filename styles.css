@@ -5,7 +5,7 @@ body{
 p{
     font-family:monospace;
     text-align:center;
-    color:lightpink
+    color:lightpink;
 }
 
 h3,h4,h5,h6 {
@@ -19,18 +19,18 @@ h1{
     font-family:impact, haettenschweitler, 'arial narrow bold',sans-serif;
     font-size: 150px;
     color: white;
-    font-style: normal
+    font-style: normal;
 }
 
 h2{
-    color:black 
+    color:black ;
 }
 
 .special {
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
-    font-weight: bold
-    font-size: 40px
-    text-align: left
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: left;
 }
 
 ul{
@@ -50,9 +50,9 @@ li{
 }
 
 .pizza {
-    width:50%
+    width:50%;
 }
-
+ 
 a{
     color:white;
 }
